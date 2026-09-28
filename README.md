@@ -1,0 +1,2 @@
+# premium-cold-cast-metal-001-cold-cast-metal-powder-resin
+Stop wasting expensive metal powders and resin on forgotten recipes. Your cold-cast metal experiments deserve a lab notebook that actually works.  This Notion template is the only dedicated workspace for tracking cold-cast metal formulas, material usage, curing times, and finishing techniques. It replaces scattered notes and sticky notes with a str
